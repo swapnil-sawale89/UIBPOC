@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Incident Item Stream">0fbd2032975121102c4af8b3f153af67</item_stream>
+        <segment display_value="Incident Item Stream Segment">83bd2032975121102c4af8b3f153af67</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-04 07:46:59</sys_created_on>
+        <sys_id>c3bd2032975121102c4af8b3f153af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Logistic Management System" source="x_249820_logistic">e6cc6cbe971121102c4af8b3f153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistic Management System">e6cc6cbe971121102c4af8b3f153af6a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_c3bd2032975121102c4af8b3f153af68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-04 07:46:59</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
